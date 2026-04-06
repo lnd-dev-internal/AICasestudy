@@ -1,4 +1,4 @@
-import { app } from "./express-app.js";
+import { app } from "../app.js";
 import { getEnv } from "./config/env.js";
 
 const env = getEnv();

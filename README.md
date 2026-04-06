@@ -76,7 +76,7 @@ Xem file [data/rubric.example.json](/Users/dollarxdustin/Documents/Case%20Study/
 
 ## Kiến trúc nhanh
 
-- [src/express-app.ts](/Users/dollarxdustin/Documents/Case%20Study/src/express-app.ts): cấu hình Express app.
+- [app.ts](/Users/dollarxdustin/Documents/Case%20Study/app.ts): Express app entrypoint dùng cho Vercel.
 - [src/local-server.ts](/Users/dollarxdustin/Documents/Case%20Study/src/local-server.ts): server local dùng cho môi trường dev/local.
 - [src/routes/submissions.ts](/Users/dollarxdustin/Documents/Case%20Study/src/routes/submissions.ts): endpoint upload/chấm bài.
 - [src/services/document-parser.ts](/Users/dollarxdustin/Documents/Case%20Study/src/services/document-parser.ts): parse file Word/text.
