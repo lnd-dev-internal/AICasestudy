@@ -28,7 +28,7 @@ npm run dev
 
 ## Deploy trên Vercel
 
-- App đã có entrypoint serverless cho Vercel tại `api/index.ts`.
+- App đã có entrypoint cho Vercel tại `app.ts`.
 - Cần khai báo tối thiểu 2 biến môi trường trên Vercel:
   - `GEMINI_API_KEY`
   - `GEMINI_MODEL`
