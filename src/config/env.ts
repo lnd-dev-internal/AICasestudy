@@ -10,4 +10,8 @@ const envSchema = z.object({
   GEMINI_MODEL: z.string().min(1, "GEMINI_MODEL is required")
 });
 
-export const env = envSchema.parse(process.env);
+export type AppEnv = z.infer<typeof envSchema>;
+
+export function getEnv(): AppEnv {
+  return envSchema.parse(process.env);
+}
