@@ -5,6 +5,7 @@ import { gradingConfigRouter } from "./src/routes/grading-config.js";
 import { submissionsRouter } from "./src/routes/submissions.js";
 
 export const app = express();
+export default app;
 
 app.use(cors());
 app.use(express.json({ limit: "2mb" }));
