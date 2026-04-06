@@ -1,0 +1,31 @@
+{
+  "title": "Barem cham bai Area Operations Manager",
+  "maxScore": 100,
+  "criteria": [
+    {
+      "name": "Phan tich hien trang van hanh",
+      "weight": 25,
+      "description": "Danh gia kha nang nhan dien van de goc, doc du lieu va mo ta hien trang."
+    },
+    {
+      "name": "Chat luong giai phap",
+      "weight": 30,
+      "description": "Danh gia tinh logic, tinh kha thi, muc do uu tien va su phu hop voi boi canh khu vuc."
+    },
+    {
+      "name": "Ke hoach trien khai",
+      "weight": 20,
+      "description": "Danh gia kha nang chia giai doan, gan owner, timeline, KPI va co che giam sat."
+    },
+    {
+      "name": "Quan tri con nguoi va phoi hop phong ban",
+      "weight": 15,
+      "description": "Danh gia cach quan ly doi ngu, xu ly khang cu va phoi hop da phong ban."
+    },
+    {
+      "name": "Tu duy tai chinh va tac dong kinh doanh",
+      "weight": 10,
+      "description": "Danh gia kha nang lien ket giai phap voi chi phi, doanh thu, loi nhuan va rui ro."
+    }
+  ]
+}

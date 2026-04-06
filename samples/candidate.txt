@@ -1,0 +1,32 @@
+Ung vien de xuat chia khu vuc thanh 3 cum van hanh va bo tri Area Supervisor cho moi cum.
+Muc tieu trong 90 ngay la giam 15 phan tram overtime, tang ti le tuan thu checklist len 95 phan tram va giam khiem nai lap lai 20 phan tram.
+
+Phan tich hien trang:
+- Lich lam viec chua can bang, co cua hang thieu nguoi vao khung gio cao diem.
+- Quan ly cua hang chua theo sat KPI ngay.
+- Quy trinh ban giao ca va checklist mo cua, dong cua khong dong nhat.
+
+Giai phap:
+- Chuan hoa dashboard ngay cho tung cua hang, review 2 lan moi ngay.
+- Dao tao Store Manager ve cach lap lich va quan ly nang suat.
+- Ap dung kiem tra cheo giua cac cua hang trong cung cum.
+- Xep hang uu tien cua hang theo muc do anh huong doanh thu va rui ro van hanh.
+
+Ke hoach trien khai:
+- Tuan 1-2: danh gia du lieu, xac dinh top 10 cua hang can can thiep.
+- Tuan 3-6: pilot o 10 cua hang.
+- Tuan 7-12: nhan rong toan khu vuc neu KPI cai thien.
+
+KPI:
+- Overtime
+- Checklist compliance
+- Complaint repeat rate
+- Sales per labor hour
+
+Rui ro:
+- Quan ly cua hang phan khang khi tang tan suat kiem tra.
+- Du lieu cham cong chua sach.
+
+Xu ly:
+- Truyen thong ro muc tieu va co thuong theo KPI.
+- Audit du lieu 2 tuan dau.

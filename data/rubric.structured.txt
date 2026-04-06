@@ -1,0 +1,242 @@
+BAREM CHAM DIEM CASE STUDY AREA MANAGER
+
+Tong diem toi da: 100
+
+NGUYEN TAC CHAM CHUNG
+- Cham diem theo tung muc ben duoi, khong cong diem cho y khong lien quan.
+- Uu tien bai lam co su dung du lieu, so lieu, bang chung cu the tu dataset/de bai.
+- Neu ung vien co lap luan hop ly, co data chung minh nhung khac dap an mau, van co the cho diem mot phan hoac toi da neu logic vung.
+- Chap nhan sai so ±2% o phan tinh KPI neu phuong phap tinh hop ly.
+- Khong cho diem vuot muc toi da cua moi muc.
+- Khi cho diem tung muc, can neu bang chung cu the tu bai lam.
+
+PHAN 1. PHAN TICH HIEN TRANG - 30 DIEM
+
+1.1. Tinh toan va danh gia KPI - 12 diem
+
+1.1.A. Tinh toan chinh xac - 6 diem
+- Muc 1: Tinh dung KPI trung binh Buu cuc A - toi da 2 diem
+  Dieu kien dat:
+  - GTC tong xap xi 80-81%
+  - GTC TTS xap xi 84-85%
+  - FD xap xi 1.0-1.1%
+- Muc 2: Tinh dung KPI trung binh Buu cuc B - toi da 2 diem
+  Dieu kien dat:
+  - GTC tong xap xi 51-52%
+  - GTC TTS xap xi 53-54%
+  - FD xap xi 1.9-2.1%
+- Muc 3: Tinh dung KPI trung binh Khu vuc - toi da 2 diem
+  Dieu kien dat:
+  - Co tinh trung binh co trong so hoac tong hop hop ly
+
+1.1.B. So sanh va danh gia voi muc tieu - 6 diem
+- Muc 1: So sanh tung KPI voi muc tieu - 2 diem
+  Dieu kien dat:
+  - Co bang hoac noi dung so sanh ro rang tung chi so voi target
+- Muc 2: Xac dinh dung KPI dat/khong dat - 2 diem
+  Dieu kien dat:
+  - Buu cuc A: dat GTC tong, dat GTC TTS, dat FD
+  - Buu cuc B: khong dat ca 3 KPI
+- Muc 3: Danh gia muc do chenh lech - 2 diem
+  Dieu kien dat:
+  - Co neu cu the gap, vi du B thap hon target khoang 28-30% GTC
+
+1.2. Xac dinh van de va nguyen nhan goc re - 12 diem
+
+1.2.A. Xac dinh van de chinh - 4 diem
+- Van de 1: % Gan don Buu cuc B thap, xap xi 74% so voi 99% cua A - 1 diem
+  Ghi chu: insight quan trong nhat
+- Van de 2: % GTC Buu cuc B thap, thap hon A khoang 30% - 1 diem
+- Van de 3: Leadtime Buu cuc B cao, gap khoang 2 lan A - 1 diem
+- Van de 4: Nhan su Buu cuc B bat on, co 4 NV co y dinh nghi - 1 diem
+
+1.2.B. Phan tich nguyen nhan goc re co su dung data - 4 diem
+- Muc 1: Chi ra moi lien he % Gan thap -> GTC thap - 1 diem
+  Dieu kien dat:
+  - Co dan chung so lieu cu the
+- Muc 2: Chi ra moi lien he thieu nhan su -> khong xu ly het don - 1 diem
+  Dieu kien dat:
+  - Co tinh nang luc xu ly so voi don can giao
+- Muc 3: Phat hien pattern theo ngay, Chu Nhat va dau tuan thap hon - 1 diem
+  Dieu kien dat:
+  - Co so sanh data theo thu
+- Muc 4: Phat hien van de thu nhap thap -> NV muon nghi - 1 diem
+  Dieu kien dat:
+  - Co lien he thu nhap trung binh voi ghi chu nghi viec
+
+1.2.C. Logic giai thich - 4 diem
+- Chuoi logic nhan qua ro rang - toi da 2 diem
+  Vi du:
+  - Thieu NV -> Khong gan het don -> Ton don -> Leadtime tang -> FD tang
+- Co so do hoac mo ta moi quan he giua cac yeu to - toi da 2 diem
+  Dieu kien dat:
+  - The hien duoc tu duy he thong
+
+Huong dan cham muc 1.2.C:
+- 4 diem: chuoi logic hoan chinh, co diagram/mo ta ro rang
+- 2-3 diem: co logic nhung chua day du hoac thieu dan chung
+- 0-1 diem: logic roi rac, khong thay moi lien he
+
+1.3. Xac dinh buu cuc uu tien - 6 diem
+- Ket luan dung: Buu cuc B can uu tien - 2 diem
+- Ly do dua tren data van hanh - 2 diem
+  Dieu kien dat:
+  - Dan chung KPI gap, % gan, leadtime
+- Ly do dua tren data nhan su - 2 diem
+  Dieu kien dat:
+  - Dan chung ty le NV muon nghi, nang suat
+
+Luu y phan 1.3:
+- Neu ung vien chon Buu cuc A nhung lap luan hop ly va co data chung minh, van co the cho diem phan lap luan toi da 4/6.
+
+PHAN 2. RA QUYET DINH VA XU LY VAN DE - 50 DIEM
+
+2.1. Chon van de uu tien - 15 diem
+
+2.1.A. Xac dinh van de uu tien - 5 diem
+- Xuat sac - 5 diem
+  Dieu kien dat:
+  - Chon van de cot loi: Nhan su B hoac % Gan B
+  - Day la nguyen nhan goc
+- Tot - 3 den 4 diem
+  Dieu kien dat:
+  - Chon van de quan trong nhung la he qua, vi du GTC thap hoac Leadtime cao
+- Trung binh - 1 den 2 diem
+  Dieu kien dat:
+  - Chon van de dung nhung khong phai uu tien cao nhat
+- Yeu - 0 diem
+  Dieu kien dat:
+  - Chon sai hoac khong chon duoc
+
+Danh sach dap an uu tien cao:
+- On dinh nhan su Buu cuc B, bao gom giu chan 4 NV co y dinh nghi va tuyen bo sung
+- Tang % Gan don Buu cuc B
+- Tang nang luc xu ly don Buu cuc B
+
+2.1.B. Giai thich ly do uu tien theo data - 10 diem
+- Dan chung data cu the - 4 diem
+  Vi du:
+  - 4/20 NV = 20% muon nghi
+- Giai thich tac dong domino - 3 diem
+  Dieu kien dat:
+  - Neu khong giai quyet thi hau qua gi, co logic
+- So sanh voi cac van de khac - 3 diem
+  Dieu kien dat:
+  - Neu ro vi sao van de nay quan trong hon cac van de con lai
+
+2.2. De xuat 3 hanh dong cu the - 35 diem
+
+2.2.A. Hanh dong 1 - 12 diem
+- Muc tieu ro rang - 3 diem
+- Can cu du lieu - 4 diem
+- Ket qua ky vong hop ly - 3 diem
+- Kha thi voi vai tro Area Manager - 2 diem
+
+2.2.B. Hanh dong 2 - 12 diem
+- Muc tieu ro rang - 3 diem
+- Can cu du lieu - 4 diem
+- Ket qua ky vong hop ly - 3 diem
+- Kha thi voi vai tro Area Manager - 2 diem
+
+2.2.C. Hanh dong 3 - 11 diem
+- Muc tieu ro rang - 3 diem
+- Can cu du lieu - 3 diem
+- Ket qua ky vong hop ly - 3 diem
+- Kha thi voi vai tro Area Manager - 2 diem
+
+Huong dan cham cho moi hanh dong:
+- Muc tieu ro rang:
+  - Muc tieu phai cu the, do luong duoc
+- Can cu du lieu:
+  - Phai dan chung data cu the lam co so quyet dinh
+- Ket qua ky vong hop ly:
+  - Realistic, co the dat trong tuan dau hoac giai doan ngan
+- Kha thi voi vai tro Area Manager:
+  - Nam trong quyen han va nguon luc thuc te
+
+Hanh dong mau duoc danh gia cao:
+- Gap rieng 4 NV co y dinh nghi de tim hieu va dua giai phap giu chan
+  Ly do tot:
+  - Giai quyet nguyen nhan goc, data-driven
+- Dieu phoi NV tu Buu cuc A sang ho tro B vao ngay cao diem
+  Ly do tot:
+  - Kha thi, dua tren data nang luc xu ly
+- Ra soat va toi uu route/tuyen giao de tang % Gan
+  Ly do tot:
+  - Giai quyet truc tiep van de % Gan thap
+- Dao tao kem cap NV moi cua B, nhom co 5 NV duoi 3 thang
+  Ly do tot:
+  - Data-driven, tang nang suat
+- De xuat tuyen bo sung 2-3 NV cho Buu cuc B
+  Ly do tot:
+  - Giai quyet thieu hut nang luc
+
+Hanh dong bi tru diem:
+- "Hop dong vien nhan vien" ma khong co plan cu the
+  Ly do tru:
+  - Chung chung, khong data-driven
+- "Tang cuong giam sat" ma khong neu giam sat gi
+  Ly do tru:
+  - Khong ro rang
+- Hanh dong nam ngoai quyen han Area Manager
+  Ly do tru:
+  - Khong kha thi
+- Hanh dong khong lien quan den van de da xac dinh
+  Ly do tru:
+  - Khong logic
+
+PHAN 3. LAP KE HOACH CAI THIEN - 20 DIEM
+
+3.1. Muc tieu tung tuan - 8 diem
+- Co muc tieu so cu the cho tung tuan - 4 diem
+  Vi du:
+  - Tuan 1: % Gan dat 80%
+  - Tuan 2: dat 85%
+- Muc tieu co tinh ke thua, tang dan hop ly - 2 diem
+  Dieu kien dat:
+  - Khong nhay vot phi thuc te
+- Muc tieu bam sat KPI yeu cau - 2 diem
+  Dieu kien dat:
+  - Huong den target GTC 80%, FD 1.3%
+
+Huong dan cham muc 3.1:
+- 7-8 diem: day du 4 tuan, moi tuan co 2-3 muc tieu so cu the
+- 4-6 diem: co muc tieu nhung chua du cu the hoac thieu tuan
+- 1-3 diem: muc tieu chung chung, kho do luong
+- 0 diem: khong co muc tieu hoac muc tieu phi thuc te
+
+3.2. Cac hanh dong chinh - 8 diem
+- Hanh dong cu the, chi tiet cho tung tuan - 3 diem
+  Dieu kien dat:
+  - Ai lam, lam gi, khi nao
+- Hanh dong lien ket voi muc tieu tuong ung - 2 diem
+- Hanh dong kha thi voi nguon luc hien co - 2 diem
+  Dieu kien dat:
+  - Dua tren so NV, dac thu Buu cuc
+- Hanh dong co tinh sang tao hoac phu hop thuc te GHN - 1 diem
+
+3.3. Cach theo doi va danh gia - 4 diem
+- Co chi so do luong ro rang - 2 diem
+  Vi du:
+  - % GTC hang ngay, % Gan, so don ton
+- Co tan suat va cach thuc theo doi - 1 diem
+  Vi du:
+  - Review daily/weekly, dashboard
+- Co co che dieu chinh neu khong dat - 1 diem
+  Vi du:
+  - Co plan B neu muc tieu khong dat
+
+BANG TONG HOP DIEM
+- Phan 1. Phan tich hien trang - 30 diem
+  - 1.1. Tinh toan va danh gia KPI - 12 diem
+  - 1.2. Xac dinh van de va nguyen nhan goc re - 12 diem
+  - 1.3. Xac dinh buu cuc uu tien - 6 diem
+- Phan 2. Ra quyet dinh va xu ly van de - 50 diem
+  - 2.1. Chon van de uu tien va giai thich - 15 diem
+  - 2.2. De xuat 3 hanh dong cu the - 35 diem
+- Phan 3. Lap ke hoach cai thien - 20 diem
+  - 3.1. Muc tieu tung tuan - 8 diem
+  - 3.2. Cac hanh dong chinh - 8 diem
+  - 3.3. Cach theo doi va danh gia - 4 diem
+
+TONG CONG: 100 diem

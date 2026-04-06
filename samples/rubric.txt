@@ -1,0 +1,17 @@
+Tong diem: 100
+
+1. Phan tich hien trang van hanh - 25 diem
+- Nhan dien duoc van de goc
+- Co su dung du lieu va bieu hien van hanh cu the
+
+2. Chat luong giai phap - 30 diem
+- Giai phap logic, kha thi, co thu tu uu tien
+
+3. Ke hoach trien khai - 20 diem
+- Co timeline, owner, KPI va cach theo doi
+
+4. Quan tri con nguoi va phoi hop phong ban - 15 diem
+- Co cach xu ly phan khang va phoi hop lien phong ban
+
+5. Tu duy tai chinh va tac dong kinh doanh - 10 diem
+- Co lien ket toi chi phi, doanh thu, loi nhuan hoac nang suat
