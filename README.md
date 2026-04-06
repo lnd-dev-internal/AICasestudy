@@ -26,6 +26,15 @@ cp .env.example .env
 npm run dev
 ```
 
+## Deploy trên Vercel
+
+- App đã có entrypoint serverless cho Vercel tại `api/index.ts`.
+- Cần khai báo tối thiểu 2 biến môi trường trên Vercel:
+  - `GEMINI_API_KEY`
+  - `GEMINI_MODEL`
+- Dữ liệu đề bài và barem hiện được đọc từ file commit sẵn trong `data/grading-config.json`.
+- Khi deploy lên Vercel, không nên kỳ vọng ghi đè cấu hình bằng file runtime vì filesystem của serverless không bền vững.
+
 ## Endpoint chính
 
 `POST /api/grading-config`
